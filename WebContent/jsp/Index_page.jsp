@@ -42,13 +42,13 @@
                         <a href="viewIndex.do">
                         
                             <i class="material-icons">dashboard</i>
-                            <p>Dashboard</p>
+                            <p>Dashboard For Asset</p>
                         </a>
                     </li>
                      <li>
                         <a href="Master_list.do">
                             <i class="material-icons">assignment</i>
-                            <p>Master Asset List</p>
+                            <p>Master Asset List2</p>
                         </a>
                     </li>
 					<li>
