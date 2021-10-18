@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<p><a href="viewAllContacts.do">Show Contacts</a> </p>
+	<p><a href="viewAllContacts.do">Show Contacts -q</a> </p>
 	
 </body>
 </html>
