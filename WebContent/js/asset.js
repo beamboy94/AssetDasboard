@@ -5,7 +5,7 @@ function go(url)
 
 function Add_asset()
 {
-	window.location = "Add_asset.do";
+	window.location = "Add_asset1.do";
 }
 
 function deleteAsset(url)
